@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "fast-builder",
+  "fast-lexer",
+  "fast-parser",
+  "fast-ast",
+]
